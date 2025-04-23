@@ -6,21 +6,35 @@ The tool supports step-by-step execution, instruction tracing, memory inspection
 
 🔧 Key Features
 ✅ Register view and modification (AX, BX, CX, DX, etc.)
+
 ✅ Hexadecimal memory dump and editing
+
 ✅ Manual instruction assembly (like MOV AX, 4C00)
+
 ✅ Instruction-level tracing (step-by-step)
+
 ✅ Code disassembly to human-readable format
+
 ✅ File loading and simulated execution
+
 ✅ Full compatibility with CLion and Visual Studio
 
+
 💡 Use Case
+
 Whether you're a software engineering student like Mudassir 💙, a reverse engineer, or just love working close to the metal, this project is a playground to explore how systems really work beneath the surface.
 
+
 👨‍💻 Built With
+
 💻 C++
+
 🧠 MASM concepts
+
 🛠️ IDEs: JetBrains CLion / Visual Studio
+
 🏗️ Manual memory & register mapping
+
 
 ⚖️ License
 This project is licensed under the MIT License – free to use, modify, and distribute, with proper credit.
