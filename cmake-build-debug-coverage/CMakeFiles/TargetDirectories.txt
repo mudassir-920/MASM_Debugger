@@ -1,3 +1,0 @@
-/home/mudassir/CLionProjects/MASM 2.0/cmake-build-debug-coverage/CMakeFiles/MASM_2_0.dir
-/home/mudassir/CLionProjects/MASM 2.0/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
-/home/mudassir/CLionProjects/MASM 2.0/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
